@@ -8,6 +8,6 @@ FORMULAIRE D'ENVOI DE FICHIER:
 - Il vérifie la taille, au minimum 50x50 et maximum 8000x8000.
 - Il Vérifie qu'un fichier ne porte pas le même nom sinon il renomme le nouveau fichier façon windows.
 - Il vérifie que le dossier de stockage des images existe sinon il le crée.
-- Il affiche une liste des images présentes dans le dossier images.
+- Il affiche une liste des fichiers présents dans le dossier images.
 
 Nécéssite wamp pour fonctionner.
