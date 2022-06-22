@@ -36,7 +36,7 @@
         //SI le fichier est bien une image 
         if ($extension === 'jpg' || $extension === 'png' || $extension === 'bmp' || $extension === 'jpeg') {
             // SI fichier compris entre 1ko et 7000ko (7mo)
-            if ($size >= 1000 && $size <= 10000000) {
+            if ($size >= 1000 && $size <= 7000000) {
                 // obtenir les dimensions de l'image
                 $dimensions = getimagesize($tmpName);
                 // SI les dimensions de l'image sont supérieurs à 50px et 8000px
