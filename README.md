@@ -1,4 +1,4 @@
-DEMO https://laurentcantos.fr/mywork/image_transfer/index.php
+
 
 # Formulaire-d-envoi-de-fichier-image-php
 PHP Formulaire File submit avec traitement des données, stockage des fichiers et renommage si existants
